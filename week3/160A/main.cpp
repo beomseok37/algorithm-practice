@@ -1,21 +1,7 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <bits/stdc++.h>
+#include <cstring>
 
 using namespace std;
-
-int compare(const void *a, const void *b)
-{
-    int num1 = *(int *)a;
-    int num2 = *(int *)b;
-
-    if (num1 < num2)
-        return -1;
-    
-    if (num1 > num2)
-        return 1;
-    
-    return 0;
-}
 
 int main(){
   int n, coins[100], answer=0, mySum=0, sum=0;
@@ -24,7 +10,7 @@ int main(){
     scanf("%d",&coins[i]);
     sum += coins[i];
   }
-  qsort(coins,n,sizeof(int),compare);
+  sort(coins,coins+n);
 
   for(int i=n-1;i>=0;i--){
     answer++;
