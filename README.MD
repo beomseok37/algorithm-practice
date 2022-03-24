@@ -11,6 +11,7 @@
 - [x] 466C
 - [x] 1003C
 - [x] 1258C
+
       **prefix sums 활용**
 
 ## 3주차
@@ -18,6 +19,7 @@
 - [x] 734B
 - [x] 158B
 - [x] 160A
+
       **Greedy Algorithm**
       Greedy 작전을 잘 짜는 것도 중요하지만, 그 작전을 검증하는 것도 중요하다!
 
@@ -25,4 +27,5 @@
 
 - [x] 448C
 - [ ] 768B
+
       **Divide and Conquer**
