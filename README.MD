@@ -26,6 +26,6 @@
 ## 4주차
 
 - [x] 448C
-- [ ] 768B
+- [x] 768B
 
       **Divide and Conquer**
