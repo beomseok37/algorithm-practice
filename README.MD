@@ -29,3 +29,9 @@
 - [x] 768B
 
       **Divide and Conquer**
+
+## 5주차
+
+- [x] 189A
+
+**Dynamic Programming**
