@@ -34,6 +34,6 @@
 
 - [x] 189A
 - [x] 455A
-- [ ] 327A
+- [x] 327A
 
 **Dynamic Programming**
