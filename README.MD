@@ -37,3 +37,11 @@
 - [x] 327A
 
 **Dynamic Programming**
+
+## 6주차
+
+- [x] 706C
+- [ ] 607A
+- [ ] 602B
+
+**Dynamic Programming2**
