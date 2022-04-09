@@ -59,3 +59,5 @@ int main(void) {
 
   cout << ans <<endl;
 }
+
+//Reference By https://wasd222.blogspot.com/2020/04/codeforce-chain-reaction607a.html
