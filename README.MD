@@ -42,7 +42,7 @@
 
 - [x] 706C
 - [x] 607A
-- [ ] 602B
+- [x] 602B
 
 **Dynamic Programming2**
 
